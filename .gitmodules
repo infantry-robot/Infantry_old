@@ -1,0 +1,6 @@
+[submodule "gimbal"]
+	path = gimbal
+	url = https://github.com/cygnomatic/BubinGimbal.git
+[submodule "chassis"]
+	path = chassis
+	url = https://github.com/MAGMADIMSUM-RTX/RM-BUPT-INFANTRY-2025-CHASSIS.git
